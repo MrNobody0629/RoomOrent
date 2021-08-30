@@ -1,0 +1,29 @@
+.banner-home
+{
+    clip-path: polygon(0 0, 100% 0, 100% 30%, 100% 95%, 70% 88%, 43% 100%, 20% 94%, 0 98%);
+}
+#profilenav>li:hover{
+    background-color: red;
+}
+#logeduser>a:hover
+{
+    background-color:#152F4F;
+    color: wheat;
+}
+#selectoption {
+            border-left:none;
+            padding:none;
+        }
+#datahere {
+            position:relative;
+            border-right:none;
+            padding:none;
+        }
+#roomcard:hover
+{
+    border: 2px;
+    border-color: red;
+}
+
+/*.dropdown:hover .dropdown-menu {display: block;}*/
+/*.dropleft:hover .dropdown-menu {display: block;.dropdown-menu-profile{display: none;}}*/

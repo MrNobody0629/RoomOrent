@@ -1,0 +1,9 @@
+.banner-home
+{
+    clip-path: polygon(0 0, 100% 0, 100% 30%, 100% 95%, 70% 88%, 43% 100%, 20% 94%, 0 98%);
+}
+
+#overlay_text
+{
+    background:  linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0));
+    font-family: sans-serif;}
